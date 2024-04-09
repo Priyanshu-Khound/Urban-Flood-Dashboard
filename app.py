@@ -68,7 +68,7 @@ app.layout = html.Div([
         #html.H1(children='URBAN FLOODS'),
         html.H1(html.Img(alt = "image", src=r'assets/Urban_Floods.gif', style={'width': '210px', 'height': '140px', 'border':'none', 'margin-top':'10px', 'radius':'10px'})),
         html.Label('Urban floods in India are a growing concern, fueled by rapid urbanization, poor drainage infrastructure, encroachment of water bodies, and erratic rainfall patterns. Cities across the country, including Bengaluru, Hyderabad, Chennai, Mumbai, and Delhi, regularly face inundation during monsoon seasons, leading to disruptions in daily life, damage to property, and loss of lives. The impact of urban floods extends beyond immediate physical damage, affecting public health, transportation systems, and the economy. Effective urban planning, sustainable drainage solutions, and disaster preparedness measures are crucial for mitigating the impact of urban floods and enhancing resilience in Indian cities.', 
-                    style={'color':'rgb(33 36 35)', 'text-align':'justify', 'font-size':'12px}),
+                    style={'color':'rgb(33 36 35)', 'text-align':'justify', 'font-size':'12px'}),
         html.Br(),
         html.Img(alt = "image", src=r'assets/Delhi.png', style={'width': '250px', 'height': '250px', 'border':'none', 'margin-left':'1px'}) 
     ], className='side_bar'),
