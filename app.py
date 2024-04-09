@@ -87,7 +87,7 @@ app.layout = html.Div([
                 {'label': 'Delhi', 'value':'Delhi'},
                 ],
             value = 'Bengaluru', style= {'margin-left': '1px', 'box-shadow': '0px 0px #ebb36a', 'border-color': '#ebb36a', 'font-size': '20px'}),
-            ], className='box', style={'margin-left': '280px'}),
+            ], className='box', style={'margin-left': '250px'}),
 
             html.Div([
                 html.Div([
